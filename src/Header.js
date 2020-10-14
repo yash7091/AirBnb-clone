@@ -21,10 +21,10 @@ function Header() {
                 <SearchIcon/>
             </div>
             <div className="header__right">
-                <p>Beacome a host</p>
+                <p className="icon">Beacome a host</p>
                 <LanguageIcon className="icon"/>
                 <ExpandMoreIcon className="icon"/>
-                <Avatar className="icon"/>
+                <Avatar className=""/>
             </div>
         </div>
     )
